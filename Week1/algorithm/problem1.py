@@ -1,5 +1,5 @@
 def square(x):
     return x*x
 
-x = input()
+x = int(input())
 print(square(x))
