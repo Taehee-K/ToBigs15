@@ -6,7 +6,6 @@ for i in range(4):  #4행만큼 반복
   new = list(input().split()) #새로운 행 new 배열에 저장
   board.append(new) #새로운 행 문자판 저장한 배열에 더해준다
 
-
 dx = [1, -1, 0, 0]  #상하 확인 x
 dy = [0, 0, 1, -1]  #좌우 확인 y
 
