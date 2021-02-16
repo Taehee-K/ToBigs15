@@ -2,7 +2,6 @@ N, M = map(int, input().split(" ")) #다이아몬드의 개수(N)와 최대가�
 price = list(map(int, input().split(" "))) #다이아몬드 가격 입력받기
 
 from itertools import combinations  
-
 res = list(combinations(price,3)) #N개의 다이아몬드 중 3개를 고르는 조합 생성
 
 sum = []  #훔친 다이아몬드의 가격 저장하는 list
