@@ -1,4 +1,4 @@
-# Week3 Algorithm
+# Week3 Algorithm - 완전탐색
 
 ## Problem 1: 엿팔아요
 
