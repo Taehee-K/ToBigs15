@@ -35,7 +35,7 @@ import numpy as np
 n = int(input()) # N*N 행렬 크기 입력받기
 mat = np.array([list(map(int, input().split())) for _ in range(n)]) # N*N 행렬 입력받기 -> array 형태로 저장
 
-if len(np.unique(mat))==1: # 전체 행렬의 값이 1개일 때
+if len(np.unique(mat))==1: # 전체 행렬의 값이 1개일 때 -> 분할 필요 X
   if np.unique(mat)[0]==0: white+=1
   else: orange+=1
 else: Color(n, mat) # 분할하여 탐색해야 할 때
