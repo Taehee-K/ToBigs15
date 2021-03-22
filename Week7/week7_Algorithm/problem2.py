@@ -38,7 +38,7 @@ mat = np.array([list(map(int, input().split())) for _ in range(n)]) # N*N 행렬
 if len(np.unique(mat))==1: # 전체 행렬의 값이 1개일 때
   if np.unique(mat)[0]==0: white+=1
   else: orange+=1
-else: Color(n, mat)
+else: Color(n, mat) # 분할하여 탐색해야 할 때
 
 print(white)
 print(orange)
