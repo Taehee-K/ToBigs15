@@ -40,5 +40,5 @@ if len(np.unique(mat))==1: # 전체 행렬의 값이 1개일 때 -> 분할 필�
   else: orange+=1
 else: Color(n, mat) # 분할하여 탐색해야 할 때
 
-print(white)
-print(orange)
+print(white)    # 흰색 사각형의 개수 출력
+print(orange)   # 주황색 사각형의 개수 출력
