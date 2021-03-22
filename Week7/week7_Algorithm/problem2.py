@@ -32,6 +32,7 @@ def Color(n, mat): # N*N 을  N//2 * N//2 정사각형으로 나눔
 
 
 import numpy as np
+
 n = int(input()) # N*N 행렬 크기 입력받기
 mat = np.array([list(map(int, input().split())) for _ in range(n)]) # N*N 행렬 입력받기 -> array 형태로 저장
 
