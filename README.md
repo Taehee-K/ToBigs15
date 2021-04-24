@@ -9,7 +9,7 @@
 |  | [Optimization] |
 | Week03 | [Naive Bayes] |
 |  | [Decision Tree] |
-|  | [Knn & Clustering] |
+|  | [KNN & Clustering] |
 | Week04 | [SVM] |
 |  | [Ensemble] |
 | Week05 | [Dimensionality Reduction] |
