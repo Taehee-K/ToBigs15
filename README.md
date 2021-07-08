@@ -12,7 +12,7 @@
 | Week06 | [Neural Network Basic](https://github.com/Taehee-K/ToBigs15/tree/main/Week6/week6_NeuralNetworkBasic)<br>[Class](https://github.com/Taehee-K/ToBigs15/tree/main/Week6/week6_class) |
 | Week07 | [Neural Network Advanced & Framework](https://github.com/Taehee-K/ToBigs15/tree/main/Week7/week7_AdvNeuralNet%26Framework)<br>[Time Series Analysis](https://github.com/Taehee-K/ToBigs15/tree/main/Week7/week7_TimeSeriesAnalysis) |
 | Week08 | [CNN Basic](https://github.com/Taehee-K/ToBigs15/tree/main/Week8/week8_CNN%20Basic)<br>[NLP Basic](https://github.com/Taehee-K/ToBigs15/tree/main/Week8/week8_NLP%20Basic)<br>[Reinforcement Learning](https://github.com/Taehee-K/ToBigs15/tree/main/Week8/week8_Reinforcement%20Learning) |
-| Week09 | [Advanced Models](https://github.com/Taehee-K/ToBigs15/tree/main/Week9/week9_Advanced%20Models) |
+| Week09 | [Advanced Models](https://github.com/Taehee-K/ToBigs15/tree/main/Week9/week9_Advanced%20Models)<br>  - Transfer Learning<br>  - Transformer |
 | Week10 | Generative Model<br>Recommendation System |
 <br>
 
